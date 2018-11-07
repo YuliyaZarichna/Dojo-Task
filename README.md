@@ -1,5 +1,5 @@
 # Dojo-Task
 
-# download the project
-# run npm install
-# run npm start
+- download the project
+- run npm install
+- run npm start
